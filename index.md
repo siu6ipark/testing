@@ -1,10 +1,10 @@
 ## Welcome to GitHub Pages
 
-[test link to 01](https://siu6ipark.github.io/testing/01.md)
-
-[test link to 01]({% link 01.md %})
-
 You can use the [editor on GitHub](https://github.com/siu6ipark/testing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+[test link to 01](https://siu6ipark.github.io/testing/01)
+
+[test link to 01](01)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
